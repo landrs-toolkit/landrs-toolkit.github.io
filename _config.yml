@@ -16,7 +16,7 @@
 title: LANDRS
 email: your-email@example.com
 description: >-
-  Summary goes here...
+  Linked And Networked DRoneS
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.landrs.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

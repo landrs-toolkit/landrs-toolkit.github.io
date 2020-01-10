@@ -4,5 +4,5 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Sloan Foundation funded project to build open source tools for managing scientific data on drones through the use of web standards and linked data technologies.
 </p>

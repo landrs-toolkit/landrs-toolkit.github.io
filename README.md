@@ -11,7 +11,7 @@
 
 ## Generating the Static Pages Locally
 - This step isn't really necessary. When you test the site, it will generate automatically. I've added it here for completeness.
-- `export JEKYLL_VERSION=3.7.3\ndocker run --rm \\n  --volume="$PWD:/srv/jekyll" -p 3000:4000 \\n  -it jekyll/jekyll:$JEKYLL_VERSION \\n  jekyll build`
+- `export JEKYLL_VERSION=3.7.3 \ docker run --rm \  --volume="$PWD:/srv/jekyll" -p 3000:4000 \  -it jekyll/jekyll:$JEKYLL_VERSION \  jekyll build`
 
 ## Test the Site Locally
 1. Install Docker

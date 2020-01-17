@@ -12,12 +12,20 @@
 ## Test the Site Locally
 1. Install Docker
 2. Clone this repository
-  - `git clone git@github.com:landrs-toolkit/landrs-toolkit.github.io.git`
+```
+git clone git@github.com:landrs-toolkit/landrs-toolkit.github.io.git
+```
 3. Change to the repo directory.
-  - `cd <repo>`
+```
+cd <repo>
+```
 4. Edit the appropriate content with the text editor of your choice.
 5. Serve up the website locally.
-- `export JEKYLL_VERSION=3.7.3 docker run --rm --volume="$PWD:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve`
+```
+export JEKYLL_VERSION=3.7.3 
+docker run --rm --volume="$PWD:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve
+```
+
 6. Open a web browser and open the website.
   - [http://localhost:3000](http://localhost:3000)
 

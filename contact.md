@@ -1,3 +1,5 @@
 #Contact Us
 
-Official email coming soon.  In the interim: jwyngaar AT nd DOT edu
+PIs: Jane Wyngaard, Charles Vardeman
+General info: landrs@nd.edu
+

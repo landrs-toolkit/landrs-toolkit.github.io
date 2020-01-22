@@ -1,3 +1,6 @@
-#Contact Us
+---
+layout: page
+title: Contact Us
+---
 
 Official email coming soon.  In the interim: jwyngaar AT nd DOT edu

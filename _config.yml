@@ -17,6 +17,8 @@ title: LANDRS
 email: your-email@example.com
 description: >-
   Linked And Networked DRoneS
+tagline: >-
+  Sloan Foundation funded project to build open source tools for managing scientific data on drones through the use of web standards and linked data technologies.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.landrs.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

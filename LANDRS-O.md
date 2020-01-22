@@ -1,4 +1,8 @@
-## LANDRS-O
+---
+layout: page
+title: LANDRS-O
+---
+
 Vocabulary, Taxonomy and Ontology Development for LANDRS
 This work is attempting to fill in missing terms where there isn't an appropriate existing ontology.
 Github [https://github.com/landrs-toolkit/LANDRS-o](https://github.com/landrs-toolkit/LANDRS-o)
@@ -10,8 +14,8 @@ Github [https://github.com/landrs-toolkit/LANDRS-o](https://github.com/landrs-to
 - Green: OGC SensorThing
 - Red: OGC SOSA
 - Blue: LANDRS
-- Orange: 
-- Purple: 
+- Orange:
+- Purple:
 
-### In Progress Drone representation 
+### In Progress Drone representation
 Uses OGC SOSA and STEP
